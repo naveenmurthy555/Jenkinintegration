@@ -25,9 +25,8 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
-  
-  <build>
+    
+ 
     <finalName>JenkinsWar</finalName>
   </build>
   
